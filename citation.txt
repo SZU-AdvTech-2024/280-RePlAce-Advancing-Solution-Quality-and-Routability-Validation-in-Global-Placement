@@ -1,0 +1,11 @@
+@article{REPO280,
+    author = "Cheng, Chung-Kuan and Kahng, Andrew B. and Kang, Ilgweon and Wang, Lutong",
+    doi = "10.1109/TCAD.2018.2859220",
+    journal = "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+    keywords = "Benchmark testing;Routing;Smoothing methods;Density functional theory;Cost function;Standards;Global placement;Layout design automation;Numerical analysis;Routability-driven placement",
+    number = "9",
+    pages = "1717-1730",
+    title = "{RePlAce: Advancing Solution Quality and Routability Validation in Global Placement}",
+    volume = "38",
+    year = "2019"
+}
